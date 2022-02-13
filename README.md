@@ -5,7 +5,7 @@
 
 - Find the Seoul Bike Sharing Demand notebook SeoulBikePrediction.ipynb
 
-- The air_pollution_seoul.ipynb notebook as been created for the purpose of adding a feature to our model
+- The air_pollution_seoul.ipynb notebook as been created for the purpose of adding a feature to our model.
 
 - Find more info in SeoulBikeSharingDemand.pdf
 
